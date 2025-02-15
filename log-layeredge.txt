@@ -44,3 +44,10 @@
 [07:50:53 | 15-02-2025] Wallet Address: 0x000004ad77FB28b1661d7836D640AdD49aa2DE66
 [07:50:53 | 15-02-2025] Node Points: 49695
 [07:50:53 | 15-02-2025] Last Claim Point: 14/02/2025 04:13:25
+[08:25:49 | 15-02-2025] 🚨 Wallet 0xEf5878b86336Fe18588B00aDddaDB4de6Cb3EB45 not registered. Registering now...
+[08:25:51 | 15-02-2025] ✅ Wallet 0xEf5878b86336Fe18588B00aDddaDB4de6Cb3EB45 registered successfully.
+[08:25:52 | 15-02-2025] Wallet Address: 0xEf5878b86336Fe18588B00aDddaDB4de6Cb3EB45
+[08:25:52 | 15-02-2025] Node Points: 0
+[08:25:52 | 15-02-2025] Last Claim Point: 15/02/2024 01:25:52
+[08:25:53 | 15-02-2025] ✅ Points claimed for 0xEf5878b86336Fe18588B00aDddaDB4de6Cb3EB45
+[08:25:54 | 15-02-2025] ✅ Node started for 0xEf5878b86336Fe18588B00aDddaDB4de6Cb3EB45
